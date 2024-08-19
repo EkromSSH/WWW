@@ -86,6 +86,6 @@ The solution simple install: `apt-get install ca-certificates`
 ### Credits
 - [Dharak36](https://github.com/dharak36/Xray-core)
 =======
-สวัสดี
 >>>>>>> origin/main
 >>>>>>> 24abb8b (Resolved merge conflicts)
+>>>>>>>
