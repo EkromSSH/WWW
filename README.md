@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
+HEAD
 <h1 align="center">
 <h1 align="center">♦️Autoscript SSH XRAYS Websocket Multiport (BETA)♦️
 <h2 align="center"> Supported Linux Distribution</h2>
